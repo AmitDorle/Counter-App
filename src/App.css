@@ -1,0 +1,44 @@
+.container
+{
+  border: 5px double;
+  margin: 50px;
+  text-align: center;
+  background-color: aquamarine;
+  border-radius: 15px;
+  box-shadow: 0px 0px 8px red;
+  margin-top: 200px;
+}
+.main-counter
+{
+  display: flex;
+  justify-content: center;
+}
+.inc-btn
+{
+  font-size: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow:2px 2px 5px white;
+  border:none;
+  background-color: green;
+}
+.dec-btn
+{
+  font-size: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow:2px 2px 5px white;
+  border:none;
+  background-color: red;
+}
+.reset-btn
+{
+  width: 150px;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: 20px;
+  box-shadow:2px 2px 5px red;
+  border:none;
+  background-color: black;
+  color: whitesmoke;
+}
